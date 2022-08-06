@@ -1,0 +1,106 @@
+.warna1{
+  background-color: #876445;
+}
+
+.warna2 {
+  background-color: #CA965C;
+}
+
+.warna3{
+  background-color: #EEC373;
+}
+
+.warna4 {
+  background-color: #F4DFBA;
+}
+
+/* banner */
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+/* kategori */
+.highlighted-kategori{
+  height: 250px;
+}
+.kategori-makanan-satu{
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/makanan1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.kategori-makanan-dua{
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/makanan2.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.kategori-makanan-tiga{
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/makanan3.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.no-decoration{
+  text-decoration: none;
+  color: white;
+}
+.no-decoration:hover{
+  color: #EEC373;
+}
+
+.text-harga {
+  font-size: 22px;
+  color: #CA965C;
+}
+.image-box{
+  height: 200px;
+}
+.image-box img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* footer */
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: white;
+}
+
+.content-subscribe a:hover {
+  color: #EEC373;
+  size: 100px;
+}
+
+.subscribe{
+    background-color: rgba(0, 0, 0, 0.8);
+} 
+
+/* banner produk */
+
+.banner-produk {
+    height: 52vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/produk7.jpg');
+    background-size: cover;
+    background-position: 40% 53%;
+}
+
+ /* buat produk terkait */
+ .produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+ }
+
+.banner-tentang {
+  height: 52vh;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/produk11.jpg');
+  background-size: 81%;
+  background-position: 45% 57%;
+}

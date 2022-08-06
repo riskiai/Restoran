@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: La unica
+Author: Estefania Hormigo
+Url: http://www.fontsquirrel.com/fonts/la-unica
+
+Font: Caveat
+Author: Impallari Type
+Url: https://www.fontsquirrel.com/fonts/caveat
